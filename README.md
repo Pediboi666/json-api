@@ -41,3 +41,4 @@ Archive
 older versions of the JSON:API documentations
 
 * RC3 - http://jsonapi-rc3.herokuapp.com/
+
